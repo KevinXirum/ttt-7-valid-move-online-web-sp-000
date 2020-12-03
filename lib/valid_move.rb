@@ -8,4 +8,4 @@ def valid_move?(board, index)
   end
 end
 
-def 
+def on_board?(board, )
